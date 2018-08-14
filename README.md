@@ -1,5 +1,7 @@
 # React 360 PDF viewer
 
+[![npm version](https://badge.fury.io/js/react-360-pdf-viewer.svg)](https://badge.fury.io/js/react-360-pdf-viewer)
+
 PDF viewer in VR space based on [React 360](https://facebook.github.io/react-360/) and [PDF.js](http://mozilla.github.io/pdf.js/)
 
 Inspired by
