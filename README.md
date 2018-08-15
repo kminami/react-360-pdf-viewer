@@ -30,7 +30,7 @@ $ npm install -S react-360-pdf-viewer
 
 ```javascript
 import { ReactInstance } from 'react-360-web';
-import { PdfModule } from 'react-360-pdf-viewer';
+import PdfModule from 'react-360-pdf-viewer/PdfModule';
 
 function init(bundle, parent, options = {}) {
   const r360 = new ReactInstance(bundle, parent {

@@ -3,7 +3,7 @@
 
 import {ReactInstance} from 'react-360-web';
 
-import PdfModule from './src/PdfModule';
+import PdfModule from './PdfModule';
 
 function init(bundle, parent, options = {}) {
   const r360 = new ReactInstance(bundle, parent, {

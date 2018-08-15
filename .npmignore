@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.log
+*.js.meta
+node_modules/
+build/
+static_assets/
+__tests__/
+docs/
